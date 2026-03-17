@@ -13,9 +13,10 @@
   --color-bottom: #ff0070;
   --color-text-title: #db00ff;
   --accent-color: #ff0070;
-  --color-text-p: #f1b2ce;
+  --color-text-paragraf: #f1b2ce;
   --recoring-color: #ff0070;
-  --content-rec: REC;
+  --content-rec: "REC";
   --rec-size: 9px;
   --text-color: #f1b2ce;
+  --decoration-gap: clamp(10px , 2.65vw , 20px);
 }
